@@ -1,10 +1,14 @@
 # awesome-ai-subscription · 中文 AI 订阅完整指南
 
+[English](README.en.md) | [中文]
+
+---
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub stars](https://img.shields.io/github/stars/siuserxiaowei/awesome-ai-subscription?style=social)
-![GitHub issues](https://img.shields.io/github/issues/siuserxiaowei/awesome-ai-subscription)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Last commit](https://img.shields.io/github/last-commit/siuserxiaowei/awesome-ai-subscription)
+[![GitHub stars](https://img.shields.io/github/stars/siuserxiaowei/awesome-ai-subscription?style=social)](https://github.com/siuserxiaowei/awesome-ai-subscription/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/siuserxiaowei/awesome-ai-subscription?style=social)](https://github.com/siuserxiaowei/awesome-ai-subscription/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/siuserxiaowei/awesome-ai-subscription)](https://github.com/siuserxiaowei/awesome-ai-subscription/commits/main)
+[![License](https://img.shields.io/github/license/siuserxiaowei/awesome-ai-subscription)](./LICENSE)
 
 > 一份持续维护的中文 AI 订阅手册：ChatGPT、Claude、Gemini、Grok、Cursor、Codex 各家档位、价格、功能差异、付款方式、风控规避、卡密激活、按场景的组合推荐——全部用具体数字和实战经验,不堆 AI 套话。
 

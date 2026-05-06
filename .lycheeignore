@@ -1,0 +1,13 @@
+# Local in-page anchor links (Chinese fragments) — lychee can't validate fragments inside the same doc reliably
+^#.*$
+
+# GitHub itself — avoid rate-limit failures on self-referential / network links
+^https?://github\.com/.*$
+^https?://www\.github\.com/.*$
+^https?://img\.shields\.io/.*$
+^https?://awesome\.re/.*$
+
+# localhost / file scheme
+^file://.*$
+^https?://localhost.*$
+^https?://127\.0\.0\.1.*$
