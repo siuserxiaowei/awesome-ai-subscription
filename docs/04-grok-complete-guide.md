@@ -1,5 +1,9 @@
 # 04 · Grok 完整订阅指南
 
+[English](./en/04-grok-complete-guide.md) | 中文
+
+---
+
 > 适用范围:xAI 旗下 Grok 网页版 / X 集成 / xAI API。
 > 数据时间:2026-05。Grok 档位结构 2024-2025 大改过两次,本篇基于"Premium / Premium+ / SuperGrok / xAI API"四档结构。
 

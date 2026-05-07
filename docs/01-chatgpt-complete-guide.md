@@ -1,5 +1,9 @@
 # 01 · ChatGPT 完整订阅指南
 
+[English](./en/01-chatgpt-complete-guide.md) | 中文
+
+---
+
 > 适用范围:OpenAI 旗下 ChatGPT 网页版 / iOS / Android / 桌面客户端的所有付费档位。本篇不覆盖 OpenAI Platform / API(那是按 token 计费,跟订阅无关)。
 > 数据时间:2026-05。OpenAI 大约每 6-9 个月调一次档位结构,过期请提 issue。
 

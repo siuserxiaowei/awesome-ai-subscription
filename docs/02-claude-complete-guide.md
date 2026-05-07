@@ -1,5 +1,9 @@
 # 02 · Claude 完整订阅指南
 
+[English](./en/02-claude-complete-guide.md) | 中文
+
+---
+
 > 适用范围:Anthropic 旗下 Claude.ai 网页版 + iOS / Android + Console / API。
 > 数据时间:2026-05。Claude Pro / Max 档位结构在 2025-04 大改过一次,本篇基于改后结构。
 

@@ -1,5 +1,9 @@
 # 05 · Cursor / Codex 编程订阅指南
 
+[English](./en/05-cursor-codex-guide.md) | 中文
+
+---
+
 > 适用范围:Cursor IDE 全部档位 + OpenAI Codex(2025 重启版)+ Claude Code(简要,详细见 02-claude)。
 > 数据时间:2026-05。Cursor 定价 2025 调过两次,本篇是最新版。
 

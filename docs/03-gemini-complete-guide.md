@@ -1,5 +1,9 @@
 # 03 · Gemini 完整订阅指南
 
+[English](./en/03-gemini-complete-guide.md) | 中文
+
+---
+
 > 适用范围:Google Gemini 网页版 / App / Workspace 集成 / Google AI Studio。
 > 数据时间:2026-05。Gemini 是这几家里档位变动最频繁的,2024 年大改过两次档位名,本篇基于"Google One AI Premium / AI Pro / AI Ultra"三档结构。
 
