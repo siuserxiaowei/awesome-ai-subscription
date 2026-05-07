@@ -27,6 +27,12 @@
 
 ---
 
+## English version
+
+完整英文版已上线 → 见 [README.en.md](./README.en.md) 与 [docs/en/](./docs/en/)。10 篇逐篇翻译,每篇英文版顶部 / 底部都有"中文版"双向跳转。
+
+---
+
 ## 目录
 
 ### 核心订阅指南

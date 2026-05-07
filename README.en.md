@@ -1,4 +1,4 @@
-# awesome-ai-subscription · A complete guide to AI subscriptions in Chinese
+# awesome-ai-subscription · A complete guide to AI subscriptions
 
 [English] | [中文](README.md)
 
@@ -10,16 +10,9 @@
 [![Last commit](https://img.shields.io/github/last-commit/siuserxiaowei/awesome-ai-subscription)](https://github.com/siuserxiaowei/awesome-ai-subscription/commits/main)
 [![License](https://img.shields.io/github/license/siuserxiaowei/awesome-ai-subscription)](./LICENSE)
 
-> A continuously maintained guide to AI subscriptions for Chinese users — covering ChatGPT, Claude, Gemini, Grok, Cursor, Codex tiers, payment methods, fraud prevention, card-key activation, and use-case-driven combos. All tables/data, no AI fluff.
+> A continuously maintained guide to AI subscriptions — covering ChatGPT, Claude, Gemini, Grok, Cursor, Codex tiers, payment methods, fraud prevention, card-key activation, and use-case-driven combos. All tables / verified data, no AI fluff.
 
----
-
-## Heads up: this guide is in Chinese
-
-This guide is written in Chinese because that's where the audience is — Chinese users navigating the maze of paying for overseas AI subscriptions. If you don't read Chinese, this might still help you in two ways:
-
-1. **Market intelligence** on a $20B+ underground subscription market. Pricing tiers, payment fraud patterns, gift-card flows, IP risk-control behavior, and reseller economics are documented in detail.
-2. **`git clone` + translate**. Pipe any chapter through Claude, GPT, or DeepL — the writing is structured (tables, bulleted lists, version-stamped numbers) so it survives machine translation cleanly.
+Originally written in Chinese for users navigating overseas AI subscription payments from inside China; now also available in English. Both versions cover the same material — pricing matrices, payment-route mechanics, risk-control patterns, and reseller economics — with examples kept verbatim where Chinese-context detail matters (Chinese cards, Apple ID flows, etc.) and annotated for English readers.
 
 ---
 
@@ -33,14 +26,12 @@ This repo collects what works in 2026. Every number is verified against current 
 
 ## Quick Links · common questions
 
-- [How much is ChatGPT Plus? Is Pro worth $200/month?](./docs/01-chatgpt-complete-guide.md#档位与价格)
-- [How do I subscribe to Claude Pro? Max $100 vs $200 — what's the gap?](./docs/02-claude-complete-guide.md#档位对比)
-- [Can a Chinese-issued card pay directly? Why does it usually get declined?](./docs/06-payment-methods.md#海外信用卡-国内卡)
-- [Are payment proxies safe? How do I pick one without getting scammed?](./docs/06-payment-methods.md#代充服务)
-- [On a $20 / $50 / $200 monthly budget, which combos work?](./docs/07-pricing-comparison.md#预算组合推荐)
-- [Payment failed? Gift card frozen? Fixes inside.](./docs/08-troubleshooting.md)
-
-> Anchor links resolve fine even if your browser doesn't render Chinese — GitHub uses URL-encoded fragments under the hood.
+- [How much is ChatGPT Plus? Is Pro worth $200/month?](./docs/en/01-chatgpt-complete-guide.md#tiers-and-pricing)
+- [How do I subscribe to Claude Pro? Max $100 vs $200 — what's the gap?](./docs/en/02-claude-complete-guide.md#tier-comparison)
+- [Can a Chinese-issued card pay directly? Why does it usually get declined?](./docs/en/06-payment-methods.md#foreign--chinese-credit-cards)
+- [Are payment proxies safe? How do I pick one without getting scammed?](./docs/en/06-payment-methods.md#subscription-proxy-services)
+- [On a $20 / $50 / $200 monthly budget, which combos work?](./docs/en/07-pricing-comparison.md#recommended-bundles-by-budget)
+- [Payment failed? Gift card frozen? Fixes inside.](./docs/en/08-troubleshooting.md)
 
 ---
 
@@ -48,23 +39,25 @@ This repo collects what works in 2026. Every number is verified against current 
 
 ### Core subscription guides
 
-| #   | Document                                                              | One-line summary                                                              |
-| --- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 01  | [ChatGPT complete guide](./docs/01-chatgpt-complete-guide.md)         | Free / Plus $20 / Pro $200 / Team / Enterprise — every tier + how to pay from China |
-| 02  | [Claude complete guide](./docs/02-claude-complete-guide.md)           | Free / Pro $20 / Max $100 / Max $200 + Console API — when to pick which       |
-| 03  | [Gemini Advanced guide](./docs/03-gemini-complete-guide.md)           | Google AI Pro $19.99 / AI Ultra — and how it compares to ChatGPT Plus         |
-| 04  | [Grok Premium guide](./docs/04-grok-complete-guide.md)                | Premium $8 / Premium+ $40 / xAI API + the X subscription bundling             |
-| 05  | [Cursor / Codex coding subscriptions](./docs/05-cursor-codex-guide.md) | Cursor Pro $20 / Business $40 / OpenAI Codex — for working programmers       |
+| #   | Document                                                                | One-line summary                                                              |
+| --- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 01  | [ChatGPT complete guide](./docs/en/01-chatgpt-complete-guide.md)        | Free / Plus $20 / Pro $200 / Team / Enterprise — every tier + how to pay from China |
+| 02  | [Claude complete guide](./docs/en/02-claude-complete-guide.md)          | Free / Pro $20 / Max $100 / Max $200 + Console API — when to pick which       |
+| 03  | [Gemini Advanced guide](./docs/en/03-gemini-complete-guide.md)          | Google AI Pro $19.99 / AI Ultra — and how it compares to ChatGPT Plus         |
+| 04  | [Grok Premium guide](./docs/en/04-grok-complete-guide.md)               | Premium $8 / Premium+ $40 / xAI API + the X subscription bundling             |
+| 05  | [Cursor / Codex coding subscriptions](./docs/en/05-cursor-codex-guide.md) | Cursor Pro $20 / Business $40 / OpenAI Codex — for working programmers       |
 
 ### Payment / selection / troubleshooting
 
-| #   | Document                                                                   | One-line summary                                                          |
-| --- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 06  | [Payment methods comparison](./docs/06-payment-methods.md)                 | Foreign card / Apple Pay / gift card / virtual card / USDT / proxy — 7 routes |
-| 07  | [Pricing matrix + value-for-money](./docs/07-pricing-comparison.md)        | One big table comparing all vendors, plus combos for $20/$50/$100/$200 budgets |
-| 08  | [Failure / risk-control / card-key troubleshooting](./docs/08-troubleshooting.md) | 10+ real scenarios, each with a 2–3 step fix                       |
-| 09  | [Pick by use case (programmer / student / writer / researcher / casual)](./docs/09-recommendation-by-use-case.md) | Monthly budget + recommended combos for 5 user types |
-| 10  | [Tracking policy changes](./docs/10-stay-updated.md)                       | Official status / changelog / newsletter / Discord lists for every vendor |
+| #   | Document                                                                       | One-line summary                                                          |
+| --- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| 06  | [Payment methods comparison](./docs/en/06-payment-methods.md)                  | Foreign card / Apple Pay / gift card / virtual card / USDT / proxy — 7 routes |
+| 07  | [Pricing matrix + value-for-money](./docs/en/07-pricing-comparison.md)         | One big table comparing all vendors, plus combos for $20/$50/$100/$200 budgets |
+| 08  | [Failure / risk-control / card-key troubleshooting](./docs/en/08-troubleshooting.md) | 10+ real scenarios, each with a 2–3 step fix                       |
+| 09  | [Pick by use case (programmer / student / writer / researcher / casual)](./docs/en/09-recommendation-by-use-case.md) | Monthly budget + recommended combos for 5 user types |
+| 10  | [Tracking policy changes](./docs/en/10-stay-updated.md)                        | Official status / changelog / newsletter / Discord lists for every vendor |
+
+> Each English page links back to its Chinese counterpart at the top.
 
 ---
 
@@ -87,10 +80,10 @@ This repo collects what works in 2026. Every number is verified against current 
 
 ## How to use this guide
 
-- **First time looking at AI subscriptions** → start at [09-pick by use case](./docs/09-recommendation-by-use-case.md) and find your archetype.
-- **Already know what to buy, stuck at checkout** → [06-payment methods](./docs/06-payment-methods.md) + [08-troubleshooting](./docs/08-troubleshooting.md).
-- **Tight budget, want max value** → [07-pricing matrix](./docs/07-pricing-comparison.md) for budget combos.
-- **Tracking long-term policy changes** → [10-stay updated](./docs/10-stay-updated.md) for official changelogs and signal sources.
+- **First time looking at AI subscriptions** → start at [09-pick by use case](./docs/en/09-recommendation-by-use-case.md) and find your archetype.
+- **Already know what to buy, stuck at checkout** → [06-payment methods](./docs/en/06-payment-methods.md) + [08-troubleshooting](./docs/en/08-troubleshooting.md).
+- **Tight budget, want max value** → [07-pricing matrix](./docs/en/07-pricing-comparison.md) for budget combos.
+- **Tracking long-term policy changes** → [10-stay updated](./docs/en/10-stay-updated.md) for official changelogs and signal sources.
 
 ---
 
