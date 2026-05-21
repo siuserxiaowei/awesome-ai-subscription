@@ -1,5 +1,18 @@
 # awesome-ai-subscription · 中文 AI 订阅完整指南
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：AI 订阅产品与工具清单，整理值得关注的 AI SaaS、订阅服务、工具栈和创作者资源。
+
+**English**: A curated list of AI subscription products and tools, covering AI SaaS, subscriptions, tool stacks, and creator resources.
+
+**SEO 关键词 / SEO Keywords**: awesome list, AI SaaS, AI subscription, AI tools, 工具清单
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 [English](README.en.md) | [中文]
 
 ---
@@ -106,3 +119,17 @@
 这份指南由 [payforgpt.com](https://payforgpt.com) 团队维护。我们运营一个面向中文用户的 AI 订阅代充站,日常踩坑最多,所以把经验整理成开源文档放出来。如果你看完指南还是搞不定付款,或者懒得自己折腾海外卡 / 礼品卡 / 虚拟卡,可以直接来 https://payforgpt.com 看一眼——支持中文客服、支付宝/微信/USDT 付款、卡密自动发货,90% 的订单 5 分钟内到账。
 
 不强卖,看到合适再买。
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: awesome list, AI SaaS, AI subscription, AI tools, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
