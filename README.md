@@ -1,5 +1,70 @@
 # awesome-ai-subscription · 中文 AI 订阅完整指南
 
+<!-- SIUSER-REPO-GUIDE:START -->
+## Repository Guide
+
+### What This Repository Does
+
+AI 订阅产品清单：整理 AI SaaS、订阅工具和产品参考。
+
+English summary: Awesome AI subscription list for AI SaaS products, subscription tools, and product references.
+
+### Online Entry Points
+
+- GitHub repository: https://github.com/siuserxiaowei/awesome-ai-subscription
+- Live / GitHub Pages: https://payforgpt.com
+- Default branch: `main`
+- Primary language: `not specified`
+- Topics: `ai-subscription`, `awesome`, `awesome-list`, `chatgpt`, `chatgpt-plus`, `chinese`, `claude`, `claude-pro`, `gemini`, `guide`
+
+### How To Read / Learn This Repository
+
+1. 先读本 README，确认项目目标、在线入口和本地运行方式。
+2. 打开上方 Live / GitHub Pages 链接，先从最终效果理解项目。
+3. 按仓库目录从入口文件、数据文件、脚本和文档依次阅读。
+4. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+
+### Clone This Repository
+
+```bash
+git clone https://github.com/siuserxiaowei/awesome-ai-subscription.git
+cd awesome-ai-subscription
+```
+
+### Run Or View Locally
+
+```bash
+python3 -m http.server 8000
+```
+
+然后打开 `http://127.0.0.1:8000/`。
+
+### Repository Map
+
+| Path | Purpose |
+| --- | --- |
+| `README.md` | 项目入口说明，先读这里。 |
+| `docs/` | 文档或 GitHub Pages 输出目录。 |
+| `assets/` | 图片、样式、字体或页面资源。 |
+| `.github/` | GitHub Actions、Issue/PR 模板等自动化配置。 |
+| `CONTRIBUTING.md` | 项目文件。 |
+| `LICENSE` | 项目文件。 |
+| `README.en.md` | 项目文件。 |
+
+### Maintenance Notes
+
+- Keep this README in sync when the project purpose, live link, or run commands change.
+- Prefer small, focused commits when changing code, data, or generated pages.
+- Run the relevant build or validation command before publishing changes.
+- If this is a generated/static archive, update the source data first, then regenerate the public files.
+
+### Privacy And Safety
+
+- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
+- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+<!-- SIUSER-REPO-GUIDE:END -->
+
 <!-- SIUSER-SEO-INTRO:START -->
 
 ## 项目介绍 / Project Introduction
@@ -11,7 +76,6 @@
 **SEO 关键词 / SEO Keywords**: awesome list, AI SaaS, AI subscription, AI tools, 工具清单
 
 <!-- SIUSER-SEO-INTRO:END -->
-
 
 [English](README.en.md) | [中文]
 
